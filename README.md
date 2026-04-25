@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Justin 👋
 
-<!--
-**justinchamizo/justinchamizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT/Business Admin student at CSU East Bay | CompTIA Security+ | Cybersecurity | Graduating 2027
 
-Here are some ideas to get you started:
+I'm currently focused on blue team/SOC operations and penetration testing.
+Currently building and documenting out a home lab documenting real attack and defense scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Skills
+- SIEM: Splunk
+- Pentesting: Kali Linux, Metasploit, Nmap, Wireshark
+- Systems: Active Directory, Windows Server, Linux
+- Languages: Python, SQL
+
+## 📂 Featured Projects
+- 🔴 [Home Lab — AD Attack & Defense](WIP)
+- 🐍 [Python Security Tools](Next Project)
+
+## 📫 Connect
+- LinkedIn: [https://www.linkedin.com/in/justin-chamizo-bbaa45278/](url)
+- Email: justinchamizoo@gmail.com
