@@ -12,7 +12,7 @@ Currently building and documenting out a home lab documenting real attack and de
 - Languages: Python, SQL
 
 ## 📂 Featured Projects
-- 🔴 [Home Lab — AD Attack & Defense](WIP)
+- 🔴 [Home Lab — AD Attack & Defense](https://github.com/justinchamizo/security-homelab)
 - 🐍 [Python Security Tools](Next Project)
 
 ## 📫 Connect
