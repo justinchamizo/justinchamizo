@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-IT/Business Admin student at CSU East Bay | CompTIA Security+ | Cybersecurity | Graduating 2027
+IT/Business Admin student at CSU East Bay | CompTIA Security+ | Cybersecurity | IT | Graduating 2027
 
 I'm currently focused on blue team/SOC operations and penetration testing.
 Currently building and documenting out a home lab documenting real attack and defense scenarios.
